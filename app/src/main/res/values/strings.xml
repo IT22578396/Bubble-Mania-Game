@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BubbleMania</string>
+    <string name="welcome_message">Welcome, %1$s!<br /><font size="28">\nHighest Score: %2$d</font></string>
+
+</resources>
